@@ -4,7 +4,8 @@
     "encoding": "US-ASCII",
     "clean_urls": true,
       "routes": {
-        "/assets/*": "/assets/",
-        "/**": "index.html"
+        "/assets/*": "/public/assets/",
+        "/css/*" : "/public/css",
+        "/**": "/public/index.html"
       }
 }
