@@ -1,5 +1,5 @@
 {
-    "root":"public/",
+    "root":"public",
     "https_only": true,
     "encoding": "US-ASCII",
     "clean_urls": true,
