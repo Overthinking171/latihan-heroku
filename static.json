@@ -1,11 +1,3 @@
 {
-    "root":"public",
-    "https_only": true,
-    "encoding": "US-ASCII",
-    "clean_urls": true,
-      "routes": {
-        "/assets/*": "/public/assets/",
-        "/css/*" : "/public/css",
-        "/**": "/public/index.html"
-      }
+    "root":"public/"
 }
